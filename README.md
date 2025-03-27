@@ -44,9 +44,16 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
-    <a href="https://guthub.com/" target="_blank" rel="noreferrer">
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="git" width="40" height="40" />
     </a>
+    <a href="https://bitbucket.org/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitbucket-Logo-blue.svg" alt="git" width="75" height="40" />
+    </a>
+    <a href="https://gitea.com/" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" alt="git" width="40" height="40" />
+    </a>
+    
 </p>
 <h4 align="left">Automation</h4>
 <p align="left">
@@ -54,9 +61,12 @@
         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
     </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-            height="40" />
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
     </a>
+    <a href="https://nifi.apache.org" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Apache-nifi-logo.svg" alt="postman" width="40" height="40" />
+    </a>
+    
 </p>
 <h4 align="left">Message brockers</h4>
 <p align="left">
@@ -115,5 +125,12 @@
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
             width="40" height="40" />
+    </a>
+    <a href="https://www.apache.org" target="_blank" rel="noreferrer">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/Apache_HTTP_server_logo_%282019-present%29.svg" alt="nginx"
+            width="40" height="40" />
+    </a>
+    <a href="https://haproxy.org" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/haproxy/haproxy-ar21~bgwhite.svg" alt="nginx" width="75" height="40" />
     </a>
 </p>
