@@ -7,7 +7,7 @@
 | **RAM**            | 128 GB                                                                                               |
 | **Storage**        | 2 × 1 TB NVMe                                                                                        |
 | **NIC**            | 1 GbE Intel                                                                                          |
-| **Services Hosted**| Nextcloud, Gitea, Wekan, MailCow, Keycloak, Kubernetes, Moodle, Jenkins, HAProxy, Nginx, Apache NiFi |
+| **Services Hosted**| Nextcloud, Gitea, Wekan, MailCow, Keycloak, Kubernetes, Moodle, Jenkins, HAProxy, Nginx, Apache NiFi, GLPI, Joomla, MySQL, PostgreSQL |
 
 ### 🛠️ Tools and Languages I Frequently Use
 
